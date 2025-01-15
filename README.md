@@ -1,9 +1,8 @@
 ### Hi there 👋 I am Shiqian Li
 
-A Detail-oriented computer engineer with passion for software development. Experience in hardware and software design,
- implementation, and analysis. A hardworking and passionate job seeker with strong organizational skills eager to secure
- entry-level Software Engineer position. Motivated to learn, grow and excel while working.Ready to help team achieve
- company goals.
+Detail-oriented SDE with expertise in software and hardware design, implementation, and analysis. Proven ability
+to create and optimize impactful solutions. Strong organizational skills and a passion for learning, growth, and
+collaboration. Dedicated to driving team and company success through innovative contributions.
 <!--
 **LXWHX/LXWHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
