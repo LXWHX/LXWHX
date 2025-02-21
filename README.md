@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Shiqian Li
 
-Detail-oriented SDE with expertise in software and hardware design, implementation, and analysis. Proven ability
+Detail-oriented SDE with expertise in software design, implementation, and analysis. Proven ability
 to create and optimize impactful solutions. Strong organizational skills and a passion for learning, growth, and
 collaboration. Dedicated to driving team and company success through innovative contributions.
 <!--
